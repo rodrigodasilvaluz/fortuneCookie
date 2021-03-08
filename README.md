@@ -1,2 +1,2 @@
 # fortuneCookie
-Project react native forfortune cookie app
+Project react native for fortune cookie app
